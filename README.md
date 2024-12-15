@@ -9,7 +9,7 @@ The experiments were conducted on a single Tesla A40 GPU with 48GB memory. The r
 - scikit-learn==1.0.2
 - dgl==0.7.2
 # Datasets
-data/ contains the 3 datasets used in our paper.
+data/ contains the 3 datasets used in our paper, i.e., Citation-v1, DBLP-v4, and ACM-v8.
 
 Each ".mat" file stores a network dataset, where
 
