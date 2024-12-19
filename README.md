@@ -21,6 +21,6 @@ the variable "labels" represents a node label matrix.
 # Code
 "models.py" is the UAGA model.
 
-"train.py" is the cross-network node classification over all 6 tasks.
+"train.py" is the open-set cross-network node classification over all 6 tasks.
 # Please cite our paper as:
 Xiao Shen, Zhihao Chen, Shirui Pan, Shuang Zhou, Laurence T. Yang, and Xi Zhou. Open-set Cross-network Node Classification via Unknown-excluded Adversarial Graph Domain Alignment. In Proceedings of AAAI Conference on Artificial Intelligence (AAAI), 2025.
